@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reproduccion Audio</string>
+    <string name="button">Long Audio</string>
+    <string name="button2">Short Audio</string>
+</resources>
